@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">My Application Lesson1hw</string>
+    <string name="buttonCounterText">Покормим котиков?</string>
+    <string name="toggleButtonText">ToggleButton</string>
+    <string name="toggleButtonTextOn">Гладить котика</string>
+    <string name="toggleButtonTextOff">Не гладить котика</string>
+    <string name="switchCompatText">SwitchCompat</string>
+    <string name="switchCompatTextOn">ДА</string>
+    <string name="switchCompatTextOff">НЕТ</string>
+    <string name="textViewColorLargeText">У тебя есть котик?</string>
+    <string name="textViewColorSmallText">Поставь галочку, если да</string>
+    <string name="editTextHint">Введите имя котика</string>
+    <string name="phoneHint">Введите номер телефона</string>
+    <string name="dataHint">Введите дату рождения</string>
+    <string name="passwordHint">Введите пароль</string>
+    <string name="emailHint">Введите адрес электронной почты</string>
+    <string name="buttonReturn">Назад</string>
+    <string name="buttonCalendar">Календарь</string>
+    <string name="buttonAccount">Учетная запись</string>
 </resources>
