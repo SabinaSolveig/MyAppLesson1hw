@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_1">4dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="textViewColorLarge">18sp</dimen>
+    <dimen name="textViewColorSmall">12sp</dimen>
+    <dimen name="buttonRadius">10pt</dimen>
+</resources>
